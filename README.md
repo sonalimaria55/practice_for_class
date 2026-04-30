@@ -9,3 +9,9 @@ A quick reference guide for commonly used Git commands.
 git config --global user.name "Your Name"
 git config --global user.email "your@email.com"
 git config --list
+
+
+##  Creating a Repository
+```git init
+git clone <repo-url>
+```
